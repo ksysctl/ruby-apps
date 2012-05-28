@@ -1,0 +1,6 @@
+* Running unit tests:
+
+Execute rake into root directory to run all unit tests
+
+    cd ruby-apps
+    rake
